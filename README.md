@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MohammedAffanShaikh
 - 👀 I’m interested in Artificial Intelligence,Machine Learning,Robotics
-- 🌱 I’m currently an Electronics And Tele-Communication Student
+- 🎓 Diploma Holder in Electronics & Telecommunication Engineering 
+- 👨‍💻 I’m doing My Bachelor Of Engineering in Computer Science (Artificial Intelligence & Machine Learning)
 - 💞️ I’m looking to collaborate on Data Science,Data Analysis Projects
 - 📫 Reach me : affancodes@gmail.com
 - 😄 Pronouns: He/Him
